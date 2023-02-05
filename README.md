@@ -1,4 +1,4 @@
-۝OLD ID CLONING FREE TOOLS ENJOY GUYS۝
+۝OLD ID CLONING TOOL ENJOY GUYS۝
 ## COMMAND :
 
 * `pkg update && pkg upgrade`
