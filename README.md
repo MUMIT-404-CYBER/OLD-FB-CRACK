@@ -18,13 +18,13 @@
 
 * `pip install bs4`
 
-* `rm -rf Old-Crack`
+* `rm -rf OLD-FB-CRACK`
 
-* `git clone https://github.com/MUMIT-404-CYBER/Old-Crack.git`
+* `git clone https://github.com/MUMIT-404-CYBER/OLD-FB-CRACK`
 
-* `cd Old-Crack`
+* `cd OLD-FB-CRACK`
 
-* `python old.py`
+* `python Crack.py`
 
 
 ___This Tool is Free Enjoy Dear User.___</br>
